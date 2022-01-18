@@ -707,7 +707,7 @@ class WebDriver extends CoreDriver
 }));
 EOF;
 
-        $this->executeJsOnXpath($xpath, $script);
+        // $this->executeJsOnXpath($xpath, $script);
     }
 
     /**
